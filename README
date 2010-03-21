@@ -1,0 +1,13 @@
+This is TextGrabber tool to extract Text from PDFs.
+
+TextGrabber requires Apache Ant to build, the other
+dependencies should be included.
+
+TextGrabber uses Apache PDFBox.
+
+TextGrabber cannot extract all PDFs, in some cases
+it will fail or produce gibberish. Please also see
+the PDFBox readme and release notes.
+
+
+

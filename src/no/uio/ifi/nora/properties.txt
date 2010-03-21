@@ -1,0 +1,3 @@
+! Automatic versioning?
+id = TextGrabber
+version = 0.1
