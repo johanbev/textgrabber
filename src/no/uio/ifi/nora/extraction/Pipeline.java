@@ -27,7 +27,7 @@ public class Pipeline
 	private TextGrabber extractor;
 	private LinkedList<PipelineElement> elements;
 	
-	/**
+	/*
 	 * We need to tell PDFont to go fuck-off with its shit into the GC every now and then.
 	 * Now we dont have around accesors or anything fancy like that in Java, 
 	 * run checkPDFont() for every document pushed through this pipeline,
